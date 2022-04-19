@@ -1,0 +1,31 @@
+
+        div{
+            width: 607px;
+            background-color: green;
+            margin: 33px;
+            transition: all 0.2137s;
+        }
+
+        div#blok1_Filip:hover{
+            font-size: 21mm;
+            background-color: red;
+        }
+
+        div#blok2_Filip:hover{
+            font-size: 21mm;
+            background-color: gold;
+
+        }
+
+
+        div#blok3_Filip:hover{
+            font-size: 21mm;
+            background-color: yellow;
+        }
+
+
+
+        /* 
+        hover; jest selektorem który spełnia wartość jak nad danym elementem html znajduje się kursor myszy
+        Mateusz Filip 
+        */
